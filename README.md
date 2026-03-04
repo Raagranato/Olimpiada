@@ -8,5 +8,3 @@ g++ Atleta.cpp Medalha.cpp Modalidade.cpp Pais.cpp Pessoa.cpp Treinador.cpp Main
 Executar:
 ./exe
 
-Link do vídeo:
-https://drive.google.com/drive/u/0/folders/1t8tqIowF8mHIV7J7aPGehK60WmxbBJtA
